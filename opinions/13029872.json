@@ -1,0 +1,166 @@
+[
+    {
+        "opinion_id": "14225294",
+        "author": "A...k",
+        "recommendation": null,
+        "score": 0.6,
+        "content": "The color does not match the order. It was supposed to be walnut, it's venge, almost black. Poorly painted, it stains the floor. Comfortable. Changes to the color series should be written in the main description and not somewhere in the text below.",
+        "pros": [
+            "functionality",
+            "comfortable"
+        ],
+        "cons": null,
+        "helpful": 1,
+        "unhelpful": 2,
+        "publish_date": "2021-03-18 19:50:23",
+        "purchase_date": "2021-04-02 22:28:44"
+    },
+    {
+        "opinion_id": "14089388",
+        "author": "p...a",
+        "recommendation": true,
+        "score": 0.8,
+        "content": "Quite a nice piece of furniture. Easy to assemble and convenient for the user. The only flaw is the oval rim, which should be fine\nbe mounted at the end between the seat and the backrest. There was no way I could mount it. A slight minus\nalso poor and quite illegible assembly instructions. Overall, at this price it's a good buy.",
+        "pros": [
+            "functionality",
+            "appearance",
+            "comfortable",
+            "resilience"
+        ],
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 1,
+        "publish_date": "2021-02-07 13:43:59",
+        "purchase_date": "2021-03-10 14:00:26"
+    },
+    {
+        "opinion_id": "12038573",
+        "author": "Użytkownik Ceneo",
+        "recommendation": null,
+        "score": 0.7,
+        "content": "solid workmanship, but the elements of the armchair are scratched and the color does not resemble the color in the photo, it was supposed to be walnut but it is wenge!",
+        "pros": null,
+        "cons": null,
+        "helpful": 3,
+        "unhelpful": 2,
+        "publish_date": "2020-03-20 17:29:35",
+        "purchase_date": "2020-04-01 22:29:48"
+    },
+    {
+        "opinion_id": "15861753",
+        "author": "e...t",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "Very accurate workmanship and easy assembly. The seat is very comfortable and the safety features work without any problems. No defects whatsoever.",
+        "pros": [
+            "functionality",
+            "appearance",
+            "comfortable",
+            "resilience"
+        ],
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2022-03-05 16:46:14",
+        "purchase_date": "2022-03-23 19:34:15"
+    },
+    {
+        "opinion_id": "11521241",
+        "author": "Ayla",
+        "recommendation": true,
+        "score": 1.0,
+        "content": "The armchair looks very good in real life, looks great in rustic interiors and encourages comfortable rest.",
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2019-12-13 10:38:44",
+        "purchase_date": "2020-01-02 16:00:48"
+    },
+    {
+        "opinion_id": "11470206",
+        "author": "Użytkownik Ceneo",
+        "recommendation": true,
+        "score": 0.9,
+        "content": "Very nice and comfortable armchair. Warms up the interior. I recommend",
+        "pros": [
+            "large tilt angle",
+            "functionality",
+            "not accurate and not clear instructions",
+            "I don't know how to install one of the elements",
+            "fear of capsizing",
+            "appearance",
+            "comfortable",
+            "resilience"
+        ],
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2019-11-20 20:45:13",
+        "purchase_date": "2019-12-21 18:23:25"
+    },
+    {
+        "opinion_id": "11210924",
+        "author": "Ewa",
+        "recommendation": true,
+        "score": 0.8,
+        "content": "Currently, I cannot evaluate the seats because they have not been used yet",
+        "pros": [
+            "functionality",
+            "appearance"
+        ],
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 4,
+        "publish_date": "2019-10-05 14:08:28",
+        "purchase_date": "2019-10-29 08:42:13"
+    },
+    {
+        "opinion_id": "10831402",
+        "author": "Łasica",
+        "recommendation": true,
+        "score": 0.8,
+        "content": "Some elements not fully painted. Poor quality manual. Armchair for self-assembly.",
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 2,
+        "publish_date": "2019-07-17 19:36:31",
+        "purchase_date": "2019-07-25 10:39:09"
+    },
+    {
+        "opinion_id": "13962086",
+        "author": "a...0",
+        "recommendation": false,
+        "score": 0.4,
+        "content": "The price of the armchair does not correspond to its construction. Unpainted armrests, unglued veneer on the edges of the armrests and frames. The armchair was supposed to be walnut, but in fact it is ebony.",
+        "pros": [
+            "functionality",
+            "fear of capsizing",
+            "appearance",
+            "comfortable",
+            "resilience"
+        ],
+        "cons": [
+            "not accurate and not clear instructions",
+            "I don't know how to install one of the elements"
+        ],
+        "helpful": 1,
+        "unhelpful": 1,
+        "publish_date": "2021-01-28 18:40:12",
+        "purchase_date": "2021-02-16 09:55:21"
+    },
+    {
+        "opinion_id": "18511128",
+        "author": "j...p",
+        "recommendation": false,
+        "score": 0.4,
+        "content": "Hello !!! In general, it should be ***** not comfortable: too high, hard seat, many shortcomings in workmanship, I simply DO NOT RECOMMEND, I'm sorry, but this is my second armchair and I can compare it!!! Regards",
+        "pros": null,
+        "cons": null,
+        "helpful": 0,
+        "unhelpful": 0,
+        "publish_date": "2024-03-15 23:15:20",
+        "purchase_date": "2024-03-21 08:05:07"
+    }
+]
